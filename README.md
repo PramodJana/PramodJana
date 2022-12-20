@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PramodJana
 - 👀 I’m interested in getting new opportunities of learning new technologies
-- 🌱 I’m currently learning Vlocity CPQ
+- 🌱 I’m currently working on LWC, Salesforce Industries and Salesforce Components
 - 💞️ I’m looking to collaborate on Salesforce And Vlocity Projects
 - 📫 How to reach me,
 you can connect with me on Linkdin (https://www.linkedin.com/in/pramod-jana-3a976a153/)
